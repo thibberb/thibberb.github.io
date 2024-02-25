@@ -1,0 +1,202 @@
+#blok1{
+    position:absolute;
+    width:50%;
+    height:24%;
+    left:25%;
+    top: 7%;
+    background-image: url('');
+    background-size: 100% 100%;
+}
+#blok2{
+    position: absolute;
+    width: 10%;
+    height: 50%;
+    left: 5%;
+    top: 15%;
+}
+.menu{
+    display:block;
+    text-align:center;
+    color:white;
+    background-color: black;
+    padding: 4%;
+    margin: 8%;
+    text-decoration: none;
+}
+.menu:hover {
+    color:white;
+    background-color: gray;
+    border:solid 1px white;
+}
+#background {
+    position:absolute;
+    width:100%;
+    height: 110%;
+    background-color:rgb(229, 252, 255);
+}
+#title {
+    position:absolute;
+    width:20%;
+    left:40%;
+    height: 10%;
+    top:5%;
+    text-align: center;
+}
+#rally {
+    position: absolute;
+    width: 35%;
+    left: 25%;
+    height: 45%;
+    top: 40%;
+    background-image: url('picrally.jpg');
+    border: solid 1px white;
+    background-size: 100% 100%;
+}
+#motogp {
+    position: absolute;
+    width: 10%;
+    left: 64%;
+    height: 50%;
+    top: 35%;
+    background-image: url('motogp.jpg');
+    border: solid 1px white;
+    background-size: 100% 100%;
+}
+#tennis{
+    position: absolute;
+    width: 35%;
+    left: 22%;
+    height: 40%;
+    top: 57%;
+    background-image: url('tennis.jpeg');
+    border: solid 1px white;
+    background-size: 100% 100%;
+}
+#rust{
+    position: absolute;
+    width: 35%;
+    left: 60%;
+    height: 40%;
+    top: 57%;
+    background-image: url('Rust-1.jpg');
+    border: solid 1px white;
+    background-size: 100% 100%;
+}
+#video{
+    position:absolute;
+    top:40%;
+    left:35%;
+    width:40%;
+    height:30%;
+}
+#blok3 {
+    position: absolute;
+    top: 15%;
+    left: 30%;
+    width: 30%;
+    height: 20%;
+    background-color: rgb(255, 255, 255);
+    border:solid 3px black;
+}
+#blok4{
+    position: absolute;
+    top: 15%;
+    left: 30%;
+    width: 40%;
+    height: 24%;
+    background-color: rgb(255, 255, 255);
+    border:solid 3px black;
+}
+#me{
+    position: absolute;
+    width: 30%;
+    left: 60%;
+    height: 40%;
+    top: 40%;
+    background-image: url('picfam.JPG');
+    border: solid 1px white;
+    background-size: 100% 100%;
+}
+#quad{
+    position: absolute;
+    width: 25%;
+    left: 30%;
+    height: 40%;
+    top: 40%;
+    background-image: url('picquad.JPG');
+    border: solid 1px white;
+    background-size: 100% 100%;
+}
+#keyglock{
+    position: absolute;
+    width: 30%;
+    left: 60%;
+    height: 60%;
+    top: 30%;
+    background-image: url('keyglock.jpg');
+    border: solid 1px white;
+    background-size: 100% 100%;
+}
+#russian{
+    position: absolute;
+    width: 35%;
+    left: 25%;
+    height: 45%;
+    top: 35%;
+    background-image: url('russiancream.jpg');
+    background-size: 100% 100%;
+}
+#legende{
+    position:absolute;
+    width:40%;
+    left:30%;
+    height:28%;
+    top:30%;
+    border:solid 3px black;
+}
+#picgradua{
+    position: absolute;
+    width: 22%;
+    left: 30%;
+    height: 60%;
+    top: 40%;
+    background-image: url('picgraduat.JPG');
+    border: solid 1px white;
+    background-size: 100% 100%;
+}
+#blok5{
+    position: absolute;
+    top: 20%;
+    left: 35%;
+    width: 30%;
+    height: 10%;
+    background-color: rgb(255, 255, 255);
+    border:solid 3px black;
+}
+#blok6{
+    position: absolute;
+    top: 15%;
+    left: 35%;
+    width: 30%;
+    height: 37%;
+    background-color: rgb(255, 255, 255);
+    border:solid 3px black;
+}
+#blok7{
+    position: absolute;
+    top: 15%;
+    left: 25%;
+    width: 50%;
+    height: 37%;
+    background-color: rgb(255, 255, 255);
+    border:solid 3px black;
+}
+#footer{
+    position:absolute;
+    top:100%;
+    left:40%;
+    width:20%;
+    text-align:center;
+    background-color:black;
+    color:white;
+}
